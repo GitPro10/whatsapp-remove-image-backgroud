@@ -1,5 +1,5 @@
 # whatsapp-remove-image-backgroud
-A script that removes the background of an image and send the image to the client, all in whatsapp using WhatsApp Web App
+A script that removes the background of an image and send the image to the client, all in whatsapp using WhatsApp Web Api
 
 ## Process
 1. Send an Image to the bot account in whatsapp
