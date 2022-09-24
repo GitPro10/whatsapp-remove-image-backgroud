@@ -1,0 +1,19 @@
+{
+  "name": "whatsappimagebackremover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "qrcode-terminal": "^0.12.0",
+    "rembg-node": "^2.0.1",
+    "sharp": "^0.30.7",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
